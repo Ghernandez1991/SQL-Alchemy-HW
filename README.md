@@ -49,7 +49,7 @@ Design a query to retrieve the last 12 months of temperature observation data (t
 Filter by the station with the highest number of observations.
 Plot the results as a histogram with bins=12.
 
-![Alt text](images/image.PNG?raw=true "Optional Title")
+![Alt text](image/image.PNG?raw=true "Optional Title")
 
 
 tep 2 - Climate App
