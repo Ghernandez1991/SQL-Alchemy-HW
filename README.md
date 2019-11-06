@@ -49,7 +49,7 @@ Design a query to retrieve the last 12 months of temperature observation data (t
 Filter by the station with the highest number of observations.
 Plot the results as a histogram with bins=12.
 
-
+![Alt text](images/image.PNG?raw=true "Optional Title")
 
 
 tep 2 - Climate App
@@ -102,3 +102,6 @@ Return a JSON list of Temperature Observations (tobs) for the previous year.
 Return a JSON list of the minimum temperature, the average temperature, and the max temperature for a given start or start-end range.
 When given the start only, calculate TMIN, TAVG, and TMAX for all dates greater than and equal to the start date.
 When given the start and the end date, calculate the TMIN, TAVG, and TMAX for dates between the start and end date inclusive.
+
+
+
